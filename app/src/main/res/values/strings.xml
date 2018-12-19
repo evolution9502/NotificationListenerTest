@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DontBotherMe</string>
+    <string name="service_label">NotificationHandleService</string>
+
+    <string name="notification_listener_service">"需要你提供通知存取的權限喔~"</string>
+    <string name="notification_listener_service_explanation">"這個app要正常執行需要你提供通知存取的權限，就是等一下把那個開關打開就好，放心啦，不會拿去做壞事der"</string>
+    <string name="yes">好喔</string>
+    <string name="no">先考慮一下</string>
+</resources>
